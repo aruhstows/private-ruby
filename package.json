@@ -1,0 +1,11 @@
+{
+  "name": "gal",
+  "version": "2.0",
+  "description": "gals",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gallodash": "4.17.21"
+  }
+}
+
