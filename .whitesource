@@ -2,11 +2,11 @@
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "hostRules": [
 {
-"matchHost": "https://sttr.jfrog.io/artifactory/api/npm/gal-sep-test/",
-"hostType": "npm",
+"matchHost": "https://sttr.jfrog.io/artifactory/api/pypi/default-pypi",
+"hostType": "pypi",
 "userName": "g.d.doron@gmail.com",
 "encrypted": {
-"password": "wcBMA8xOaBJvzJNbAQf/Rgcy02EodWcDyr/WapF0fobazx+q0h+0Ik3mTTuNdbTTQ1GZptQF/idaP1VqV+05D+qxfgZ6dRp+oAWDQBn+6zs5OzXOvSM2GNY4R20yz6jum1gDxVPn2Vd2hOLkKcyTApMsu5BBEgphhjePCEmwqzAISB3OkDEwDjhnzTbj4hYjzdvx6BoV23lzfxvt+Wnnr39SJ88kj35Fh9YQaYHPrI/IjXwHj8FdFZuOl+V5wXu/h3HKbZEln6mm96Gul8YPlCqfg9I1h45+16MV+iHRoNH8Vj7fpu1XUAx3W1bViH2ASdD2DJ+JXzn24uSv6Rl8aO5kPI9FvF83JQkMvq0UrNJbAdiKAxPl+4TFNBdOFT8Tl7DezpZaJtoAlSj8CQKYvrxVuqp/2+c21LA/3CwEfot/UhLSDAR5WDva4NvuKhm7/T3plcjuYr5rnslpk3zA5TxgvBqoNzIjWQ7gww"
+"password": "wcBMA8xOaBJvzJNbAQgAg+wQV5mxcwhDbcUUaOmjHAJ9Pp51+0pbvLnonEb+hcz5XYcPlsns3wFWDBgriLdiAmK2MwQIOPOOUNncXyi6K9B10RIm0xhTfLnhxonXYNvxIgvL01cEOVrEXFHHcOExtekcBKT+PmVdgmSrmWhBxL+NTVC/q3GWqWxP+9wu7geL5C61ZWw8bwiIBBrvVkBCVqTkp2TzUeXi5f4NaRFTjjDrLPbiapIKVVJeAVO7unogsFwp/T5STPcG98f9+U90doKwyCFBWQC9aevjwSxY9joGNsMgWbtVnzo0+frV4LyX09WV6wmNl9K9uN3jby6nuavPjVM97hVrbWdYWjU0JdJrAWwRvZMTRw+nh3jrBBY/B4lF6BciXDrG8bwRDQHMpR/RgC3iq9dLIGiniZCNQUPU+FxD22AWWWQa1GR2fjX0t/benk/Ib5fs4mKfF++SSV+RhVh1ysBBxIuoefB8sKpvgu+1Te20zEIAK+A"
 }
 }
 ]
