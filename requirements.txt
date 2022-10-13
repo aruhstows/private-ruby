@@ -1,2 +1,0 @@
-galdo.private.test==0.0.1
---index-url=https://sttr.jfrog.io/artifactory/api/pypi/default-pypi
