@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "hostRules": [
 {
-"matchHost": "https://sttr.jfrog.io/artifactory/default-private-reg-gems/",
+"matchHost": "https://sttr.jfrog.io/artifactory/default-private-reg-gemsxxx/",
 "hostType": "ruby",
 "userName": "gemtoken",
 "encrypted": {
