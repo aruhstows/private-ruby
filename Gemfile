@@ -1,2 +1,2 @@
-source "https://sttr.jfrog.io/artifactory/default-private-reg-gemsxxx/"
+source "https://sttr.jfrog.io/artifactory/default-private-reg-gems/"
 gem "angie"
